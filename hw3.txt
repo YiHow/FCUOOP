@@ -1,0 +1,6 @@
+下列為Temperature.java中溫度轉換方法
+  public double convertTemperature(int celsius) {
+    double farenheit = celsius * 9 / 5 + 32;
+    return farenheit;
+  }
+此方法計算攝氏轉華式有錯, 例如輸入99度的攝氏溫度,轉換後的正確結果應為210.2度華氏溫度.但此方法會輸出210.0度華氏溫度, 請修正此方法的錯誤

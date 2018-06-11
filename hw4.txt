@@ -1,0 +1,15 @@
+叫级糶Grading.java祘Α 才:
+
+
+1. ㄏノ眖Console块 ﹃ゅ e.g. "good"
+2. 祘Α穦耝硂﹃ゅい程じ e.g. "d"
+3. 祘Α穦沮程じ,ぃ﹃, ㄤ砏玥
+A or a -> Excellent grade
+B or b -> Very good grade
+C or c -> Good grade
+D or d -> Low grade
+ㄤじ -> Invalid grade
+4. 祘Α絏ゲ斗才Google Java Style
+
+hint 1: String APIs
+hint 2: switch-case structure
